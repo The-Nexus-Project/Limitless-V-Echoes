@@ -1,5 +1,7 @@
-# Limitless Vanilla Echoes
-Limitless Vanilla Plus modpack maintained and developed by Gbergz.
+# TNP Limitless Vanilla Echoes
+Limitless Vanilla Plus is focusing solely on vanilla plus- enhanced aspects. | Not focused on being too lightweight.
+
+Modpack is maintained and developed by Gbergz.
 
 **CurseForge Page:** https://www.curseforge.com/minecraft/modpacks/tnp-limitless-vanilla-echoes
 
