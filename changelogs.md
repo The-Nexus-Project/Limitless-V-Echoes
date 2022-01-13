@@ -7,7 +7,6 @@
 
 **Added**
 - [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)
-- [Vein Mining (Enchantment)](https://www.curseforge.com/minecraft/mc-mods/vein-mining) (**Treasure Enchantment**.)
 
 
 **Removed**
@@ -15,7 +14,6 @@
 
 
 **Changes**
-- There's now a **Vein Mining Enchantment** available only as a very rare **Treasure Enchantment**.
 - Main Menu having really low fps and slow response times has been fixed.
 - Some minor changes in mod updates.
 
