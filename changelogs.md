@@ -15,7 +15,7 @@
 
 
 **Changes**
-- There's now a **Vein Mining Enchantment** available only as a rare **Treasure Enchantment**.
+- There's now a **Vein Mining Enchantment** available only as a very rare **Treasure Enchantment**.
 - Main Menu having really low fps and slow response times has been fixed.
 - Some minor changes in mod updates.
 
