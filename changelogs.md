@@ -1,6 +1,6 @@
 <h1>v1.2.0</h1>
 
-**A another general update that updates mods and includes some fixes!**
+**Another general update that updates mods and includes some fixes!**
 
 **Always remember to backup your world(s) before updating!**
 
