@@ -1,3 +1,43 @@
+<h1>v1.3.0</h1>
+
+**Monthly update. Fixes and mod updates!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Some minor changes in mod updates.
+
+
+**Fixes**
+- Some minor fixes in mod updates.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-V-Echoes/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.2.0</h1>
 
 **Another general update that updates mods and includes some fixes!**
